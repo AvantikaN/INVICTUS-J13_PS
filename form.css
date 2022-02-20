@@ -1,0 +1,23 @@
+body{
+    background-color :LightCyan;
+      
+    }
+    img{
+      text-align: center;
+    }
+    h1{
+      color:LightCyan;
+      text-align:center;
+      background-color: black
+    }
+    canvas{
+      width:300px;
+      margin: 1px;
+      border: solid;
+    }
+    .desc{
+       width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+    }
